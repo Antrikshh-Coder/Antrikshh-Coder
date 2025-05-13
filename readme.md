@@ -9,9 +9,9 @@
 <!-- Animated Coding GIF -->
 <div align="center" style="margin: 20px 0;">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(255,94,98,0.4);" alt="Team Coding Animation" />
-</p>
+</div>
 
-## 🧑‍🎓 About Me🚀
+## 🧑‍🎓 About Me 🚀
 
 <div style="font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; border-left: 5px solid #ff5e62; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
   
@@ -22,68 +22,74 @@
   🚀 Building small projects to **apply my knowledge**  
 </div>
 
-## 🛠️ Technical Skills I'm Learning🫣
+## ✨ Inspirational Quote ✨
+
+<div align="center" style="font-family: 'Georgia', serif; font-style: italic; background: linear-gradient(90deg, #ff9966, #ff5e62); color: white; padding: 15px; border-radius: 10px; margin: 25px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  "The only way to do great work is to love what you do." - Steve Jobs
+</div>
+
+## 🛠️ Technical Skills 🛠️
 
 <div align="center" style="margin: 20px 0;">
 
 ### Programming Languages :
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases :
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web Development :
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools :
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
 ## 📊 GitHub Stats
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&count_private=true&theme=radical&hide_border=true&line_height=20&card_width=300" width="270"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=radical&hide_border=true&card_width=300" width="270"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&count_private=true&theme=radical&hide_border=true&line_height=20" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=radical&hide_border=true" width="300"/>
+</div>
+
+## 🚀 My Projects 🚀
+
+<div style="display: flex; align-items: center; margin: 30px 0; gap: 20px;">
+  <div style="flex: 1; font-family: 'Segoe UI', sans-serif; background: rgba(110,84,148,0.1); padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
+    🔹 <b>Basic Calculator</b> - My first Python GUI application <br><br>
+    🔹 <b>To-Do List App</b> - Simple web-based task manager <br><br>
+    🔹 <b>College Projects</b> - Various assignments and programs <br><br>
+    🔹 <b>Coding Practice</b> - Solutions to beginner problems <br><br>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" style="border-radius: 15px; max-width: 100%;"/>
   </div>
 </div>
 
-## 📂 My Projects⚡️
+## 🌟 Current Goals 🌟
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9hY2RtbHZ4N2d4eXg0OGE1d3BqM2Y5dXh4aHV2MmFwaWQ5dmljeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="250" style="border-radius: 15px; float: right; margin-left: 20px;"/>
-  
-  <div style="font-family: 'Segoe UI', sans-serif; background: rgba(110,84,148,0.1); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); text-align: left;">
-    🔹 Basic Calculator - My first Python GUI application <br><br>
-    🔹 To-Do List App - Simple web-based task manager  <br><br>
-    🔹 College Projects - Various assignments and programs  <br><br>
-    🔹 Coding Practice - My solutions to beginner problems  <br><br>
+<div style="display: flex; align-items: center; margin: 30px 0; gap: 20px;">
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="border-radius: 15px; max-width: 100%;"/>
+  </div>
+  <div style="flex: 1; font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
+    📌 <b>Mastering DSA</b> - Data Structures & Algorithms <br><br>
+    📌 <b>OOP Foundation</b> - Strong object-oriented skills <br><br>
+    📌 <b>Problem Solving</b> - Competitive programming <br><br>
+    📌 <b>Web Development</b> - Full-stack learning <br><br>
+    📌 <b>MySQL</b> - Database management <br><br>
   </div>
 </div>
 
-## 🌱 Current Goals🌟
+## 🌐 Let's Connect 🌐
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU2cDZ3ZTA1eTI2NzRwazJ1eWxrbHczZzU0am5rb3E1Mnl1NnpqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="200" style="border-radius: 15px; float: left; margin-right: 20px;"/>
-  
-  <div style="font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); text-align: left;">
-    📌 Mastering Data Structures and Algorithms  <br><br>
-    📌 Building strong OOP foundation  <br><br>
-    📌 Improving problem-solving skills<br><br>
-    📌 Learning web development  <br><br>
-    📌 Exploring open source  <br><br>
-    📌 Database management with MySQL  <br><br>
-  </div>
-</div>
-
-## 🌐 Let's Connect🙌🏻
-
-  
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="margin: 40px 0;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
     <a href="https://www.linkedin.com/in/antriksh-manwadkar-0b3671314/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -97,11 +103,10 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </div>
-</div>
-
-<!-- Footer -->
-<div align="center" style="margin-top: 50px; position: relative;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x3Mm1xdmR3bmt1eGdya2J6bXZtdmY2YWNlZ2ZreXZmb3pzMzB1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" style="position: absolute; left: 50px; top: -50px;"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=footer"/>
-  <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold;">Let's code something amazing! 👨‍💻</p>
+  
+  <div style="margin-top: 30px; position: relative;">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" style="position: absolute; left: 50px; top: -50px;"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=footer"/>
+    <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 18px;">Let's build something amazing together! 👨‍💻</p>
+  </div>
 </div>
