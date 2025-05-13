@@ -1,8 +1,8 @@
 <!-- README STARTS -->
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ff5e62; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Hi 👋, I'm Antriksh Sandesh Manwadkar 💻</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ff5e62; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Hi 👋, I'm Antriksh Sandesh Manwadkar 🧡</h1>
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966; margin-top: -10px;">💻 Full Stack Developer | 🚀 Tech Enthusiast | 📚 Continuous Learner</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966; margin-top: -10px;">💻 Developer | 🚀 Builder | 📚 Lifelong Learner</h3>
 
 <p align="center">
   <!-- Your Photo with Glow Effect -->
@@ -16,8 +16,6 @@
 
 <h4 align="center" style="font-family: 'Arial', sans-serif; color: #6e5494; letter-spacing: 1px;">Building digital solutions • Transforming ideas into reality • One line of code at a time</h4>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=footer&animation=fadeIn&fontAlignY=50"/>
-
 ---
 
 ## 🔥 About Me 🚀
@@ -27,20 +25,12 @@
 - 🔭 Currently crafting **Modern Web Applications**  
 - 🌱 Deep diving into **Frontend Frameworks & Cloud Technologies**  
 - 👯 Looking to collaborate on **impactful open-source projects**  
-- 💬 Ask me about **Python, Web Dev, or Tech in general**  
+- 💬 Ask me about **Python, Web Development and Tech in general**  
 - 📫 Reach me at: **antrikshmanwadkar33@gmail.com**  
-- ⚡ Fun fact: **I can solve coding problems while solving a Rubik's cube**  
+- ⚡ Fun fact: **I debug better with a cup of chai**  
 - ☕ Fuel: **Chai-powered coding sessions**  
 
 </div>
-
----
-
-## 🎮 GitHub Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/antrikshh-coder/antrikshh-coder/output/github-contribution-grid-snake.svg" alt="Snake Game" style="border-radius: 10px;"/>
-</p>
 
 ---
 
@@ -134,7 +124,5 @@
 <p align="center" style="margin-top: 30px;">
   <img src="https://media.giphy.com/media/ZBQhoZC0nqknSviPqT/giphy.gif" width="250" style="border-radius: 15px;" alt="Music vibes" />
   <br>
-  <span style="font-style: italic; font-size: 0.9em;">Currently coding to: Electronic Focus Beats</span>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=footer&animation=fadeIn&fontAlignY=50"/>
+
