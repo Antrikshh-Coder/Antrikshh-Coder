@@ -40,21 +40,14 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </div>
 
-<!-- Compact GitHub Stats with GIF -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  
-  <div style="background: rgba(110,84,148,0.1); padding: 15px; border-radius: 15px; width: 300px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dxcXJkNTY3aWZwcjhtbXFiYWxnczZybXZmYm1iZTF4ejVrcTRtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="100" style="float: left; margin-right: 10px; border-radius: 10px;"/>
-    <div style="display: inline-block;">
-      <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&count_private=true&theme=radical&hide_border=true&line_height=24" width="100%"/>
-    </div>
-  </div>
-  
-  <div style="background: rgba(110,84,148,0.1); padding: 15px; border-radius: 15px; width: 300px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY2ZmVkaWRtNGdzMXh2YmR5OXQ1Nmg2bTdkNmF3YjZvaWgyZnhpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGMnDqebzDcfm/giphy.gif" width="100" style="float: left; margin-right: 10px; border-radius: 10px;"/>
-    <div style="display: inline-block;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=radical&hide_border=true" width="100%"/>
-    </div>
+## 📊 GitHub Stats
+
+<div align="center" style="margin: 40px 0;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjOXFhMmt3bTF5MW9yaDJ6dTZjcGh2dTdoNGR4ajJpbjd2bzQ2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" style="border-radius: 15px; margin-bottom: 20px;" />
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&count_private=true&theme=radical&hide_border=true&line_height=20&card_width=300" width="270"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=radical&hide_border=true&card_width=300" width="270"/>
   </div>
 </div>
 
@@ -92,21 +85,21 @@
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <a href="https://www.linkedin.com/in/antriksh-manwadkar-0b3671314/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.3s;" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/antrikshh-coder" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="transition: transform 0.3s;" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="mailto:antrikshmanwadkar33@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.3s;" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/antrikshh_30?igsh=bGt5dWdlNzNiZXp6" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="transition: transform 0.3s;" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </div>
 </div>
 
-<!-- Waving Footer with GIF -->
+<!-- Footer -->
 <div align="center" style="margin-top: 50px; position: relative;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x3Mm1xdmR3bmt1eGdya2J6bXZtdmY2YWNlZ2ZreXZmb3pzMzB1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" style="position: absolute; left: 50px; top: -50px;"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=footer"/>
