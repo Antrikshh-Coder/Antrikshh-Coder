@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Antriksh Sandesh Manwadkar 🧡</h1>
 
-
-
-<h3 align="center">💻 Developer | 🚀 Builder | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Full Stack Developer | � Tech Enthusiast | 📚 Knowledge Seeker</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
@@ -14,19 +12,21 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="typing-coder" />
 </p>
 
-<h4 align="center">Turning ideas into real-world applications — clean code, clever ideas & continuous improvement.</h4>
+<h4 align="center">Transforming coffee into code • Building digital experiences • Learning in public</h4>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn"/>
 
 ---
 
 ## 🔥 About Me 🚀
 
-- 🔭 Currently building **HTML / CSS Projects**  
-- 🌱 Learning **Frontend Development**  
-- 💬 Ask me about **Python, C++, HTML, CSS, No Code Platforms**  
-- 📫 Reach me at: **antrikshmanwadkar33@gmail.com**  
-- ☕ Fun fact: **I debug better with a cup of chai**
+- 🔭 Currently building **Interactive Web Projects**  
+- 🌱 Deep diving into **Frontend Development & Databases**  
+- 👯 Looking to collaborate on **open source projects**  
+- 💬 Ask me about **Python, C++, Web Development**  
+- 📫 How to reach me: **antrikshmanwadkar33@gmail.com**  
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+- ☕ Fuel: **Chai > Coffee**
 
 ---
 
@@ -42,36 +42,71 @@
   <a href="https://www.snapchat.com/add/antriksh_304?share_id=ZJt-XrJ6Xj8&locale=en-US" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
   </a>
+  <a href="https://github.com/antrikshh-coder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=radical" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=antrikshh-coder&theme=tokyonight" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=antrikshh-coder&theme=radical&fire=DD2727" width="600"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=antrikshh-coder&theme=onedark&row=1&column=6" width="800"/>
+</p>
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer"/>
+## 🎯 Currently Focusing On
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="html" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="css" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="javascript" />
+</p>
+
+---
+
+## 💡 Quote I Live By
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> - John Johnson
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn&fontAlignY=50"/>
