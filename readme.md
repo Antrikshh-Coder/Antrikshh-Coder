@@ -115,11 +115,4 @@
   — Alan Kay
 </p>
 
----
 
-## 🎧 Coding Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JNy7DzgqUnh9p93aru/giphy.gif" width="200" alt="music" />
-  <br>
-  
