@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(255,94,98,0.4);" alt="Team Coding Animation" />
 </p>
 
-## 🧑‍🎓 About Me
+## 🧑‍🎓 About Me🚀
 
 <div style="font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; border-left: 5px solid #ff5e62; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
   
@@ -22,7 +22,7 @@
   🚀 Building small projects to **apply my knowledge**  
 </div>
 
-## 🛠️ Technical Skills I'm Learning
+## 🛠️ Technical Skills I'm Learning🫣
 
 <div align="center" style="margin: 20px 0;">
 
@@ -51,7 +51,7 @@
   </div>
 </div>
 
-## 📂 My Projects
+## 📂 My Projects⚡️
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9hY2RtbHZ4N2d4eXg0OGE1d3BqM2Y5dXh4aHV2MmFwaWQ5dmljeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="250" style="border-radius: 15px; float: right; margin-left: 20px;"/>
@@ -64,7 +64,7 @@
   </div>
 </div>
 
-## 🌱 Current Goals
+## 🌱 Current Goals🌟
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU2cDZ3ZTA1eTI2NzRwazJ1eWxrbHczZzU0am5rb3E1Mnl1NnpqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="200" style="border-radius: 15px; float: left; margin-right: 20px;"/>
@@ -78,7 +78,7 @@
   </div>
 </div>
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect🙌🏻
 
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
