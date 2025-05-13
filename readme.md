@@ -58,9 +58,9 @@
   
   <div style="font-family: 'Segoe UI', sans-serif; background: rgba(110,84,148,0.1); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); text-align: left;">
     🔹 Basic Calculator - My first Python GUI application <br><br>
-    🔹 To-Do List App - Simple web-based task manager  
-    🔹 College Projects - Various assignments and programs  
-    🔹 Coding Practice - My solutions to beginner problems  
+    🔹 To-Do List App - Simple web-based task manager  <br><br>
+    🔹 College Projects - Various assignments and programs  <br><br>
+    🔹 Coding Practice - My solutions to beginner problems  <br><br>
   </div>
 </div>
 
@@ -70,11 +70,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU2cDZ3ZTA1eTI2NzRwazJ1eWxrbHczZzU0am5rb3E1Mnl1NnpqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="200" style="border-radius: 15px; float: left; margin-right: 20px;"/>
   
   <div style="font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); text-align: left;">
-    📌 Mastering Data Structures and Algorithms  
-    📌 Building strong OOP foundation  
-    📌 Improving problem-solving skills
-    📌 Learning web development  
-    📌 Exploring open source  
+    📌 Mastering Data Structures and Algorithms  <br><br>
+    📌 Building strong OOP foundation  <br><br>
+    📌 Improving problem-solving skills<br><br>
+    📌 Learning web development  <br><br>
+    📌 Exploring open source  <br><br>
   </div>
 </div>
 
