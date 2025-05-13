@@ -66,17 +66,12 @@
     🔹 <b>College Projects</b> - Various assignments and programs <br><br>
     🔹 <b>Coding Practice</b> - Solutions to beginner problems <br><br>
   </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" style="border-radius: 15px; max-width: 100%;"/>
-  </div>
 </div>
 
 ## 🌟 Current Goals 🌟
 
 <div style="display: flex; align-items: center; margin: 0; gap: 20px;">
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" style="border-radius: 15px; max-width: 100%;"/>
-  </div>
+ 
   <div style="flex: 1; font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
     📌 <b>Mastering DSA</b> - Data Structures & Algorithms <br><br>
     📌 <b>OOP Foundation</b> - Strong object-oriented skills <br><br>
