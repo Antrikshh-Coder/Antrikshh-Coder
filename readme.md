@@ -102,7 +102,4 @@
   <p style="margin-top: -80px; color: white; font-weight: bold;">Excited for my coding journey ahead!</p>
 </div>
 
-<!-- GitHub Profile Views Counter -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=antrikshh-coder&label=Profile%20views&color=ff5e62&style=flat" alt="antrikshh-coder" />
-</div>
+
