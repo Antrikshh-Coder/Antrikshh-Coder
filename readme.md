@@ -28,7 +28,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/antrikshmanwadkar" target="_blank">
+  <a href="https://www.linkedin.com/in/antriksh-manwadkar-0b3671314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile"/>
   </a>
 </p>
