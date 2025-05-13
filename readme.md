@@ -5,11 +5,6 @@
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966; margin-top: -10px;">💻 Developer | 🚀 Builder | 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <!-- Your Photo with Glow Effect -->
-  <img src="https://avatars.githubusercontent.com/u/184906996?s=400&u=7e1e9275c1d263c27f1536d08402b9a479bc2e6a&v=4" width="220" style="border-radius: 50%; border: 5px solid #ff5e62; box-shadow: 0 0 25px rgba(255,94,98,0.7); margin-top: 20px;" alt="Antriksh Manwadkar" />
-</p>
-
-<p align="center">
   <!-- Large Boys Coding GIF -->
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" style="border-radius: 15px; margin: 20px 0;" alt="Team Coding Animation" />
 </p>
