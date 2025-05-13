@@ -8,7 +8,7 @@
 
 <!-- Animated Coding GIF -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" style="border-radius: 15px;"/>
 </div>
 
 ## 🧑‍🎓 About Me
@@ -44,14 +44,14 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   
   <div style="background: rgba(110,84,148,0.1); padding: 15px; border-radius: 15px; width: 300px;">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" style="float: left; margin-right: 10px; border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dxcXJkNTY3aWZwcjhtbXFiYWxnczZybXZmYm1iZTF4ejVrcTRtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="100" style="float: left; margin-right: 10px; border-radius: 10px;"/>
     <div style="display: inline-block;">
       <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&count_private=true&theme=radical&hide_border=true&line_height=24" width="100%"/>
     </div>
   </div>
   
   <div style="background: rgba(110,84,148,0.1); padding: 15px; border-radius: 15px; width: 300px;">
-    <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100" style="float: left; margin-right: 10px; border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY2ZmVkaWRtNGdzMXh2YmR5OXQ1Nmg2bTdkNmF3YjZvaWgyZnhpYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nGMnDqebzDcfm/giphy.gif" width="100" style="float: left; margin-right: 10px; border-radius: 10px;"/>
     <div style="display: inline-block;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=radical&hide_border=true" width="100%"/>
     </div>
@@ -61,7 +61,7 @@
 ## 📂 My Projects
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" style="border-radius: 15px; float: right; margin-left: 20px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9hY2RtbHZ4N2d4eXg0OGE1d3BqM2Y5dXh4aHV2MmFwaWQ5dmljeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="250" style="border-radius: 15px; float: right; margin-left: 20px;"/>
   
   <div style="font-family: 'Segoe UI', sans-serif; background: rgba(110,84,148,0.1); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); text-align: left;">
     🔹 **Basic Calculator** - My first Python GUI application  
@@ -74,7 +74,7 @@
 ## 🌱 Current Goals
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" style="border-radius: 15px; float: left; margin-right: 20px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU2cDZ3ZTA1eTI2NzRwazJ1eWxrbHczZzU0am5rb3E1Mnl1NnpqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="200" style="border-radius: 15px; float: left; margin-right: 20px;"/>
   
   <div style="font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); text-align: left;">
     📌 Mastering **Data Structures and Algorithms**  
@@ -88,27 +88,27 @@
 ## 🌐 Let's Connect
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="150" style="border-radius: 15px; margin-bottom: 20px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdzM2Zibmh1ejlscjFxZWdtMmZscjNmY3VwaTRtaTFiZ3ZwcHpoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fU4el3TgqZLJhoGMWU/giphy.gif" width="150" style="border-radius: 15px; margin-bottom: 20px;"/>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <a href="https://www.linkedin.com/in/antriksh-manwadkar-0b3671314/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.3s;" />
     </a>
     <a href="https://github.com/antrikshh-coder" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="transition: transform 0.3s;" />
     </a>
     <a href="mailto:antrikshmanwadkar33@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.3s;" />
     </a>
     <a href="https://www.instagram.com/antrikshh_30?igsh=bGt5dWdlNzNiZXp6" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="transition: transform 0.3s;" />
     </a>
   </div>
 </div>
 
 <!-- Waving Footer with GIF -->
 <div align="center" style="margin-top: 50px; position: relative;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="position: absolute; left: 50px; top: -50px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x3Mm1xdmR3bmt1eGdya2J6bXZtdmY2YWNlZ2ZreXZmb3pzMzB1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" style="position: absolute; left: 50px; top: -50px;"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=footer"/>
   <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold;">Let's code something amazing! 👨‍💻</p>
 </div>
