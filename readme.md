@@ -5,11 +5,12 @@
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966;">💻 Developer | 🚀 Builder | 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="developer" />
+  <!-- Your Photo -->
+  <img src="https://avatars.githubusercontent.com/u/your-profile-id" width="200" style="border-radius: 50%; border: 5px solid #ff5e62;" alt="Antriksh Manwadkar" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="coding" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="developer" />
 </p>
 
 <h4 align="center" style="font-family: 'Arial', sans-serif; color: #6e5494;">Crafting digital experiences • Turning ideas into reality • One commit at a time</h4>
@@ -31,6 +32,14 @@
 - ☕ Fuel: **Chai enthusiast | Code addict**  
 
 </div>
+
+---
+
+## 🎮 Play My Snake Game!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/antrikshh-coder/antrikshh-coder/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
 
 ---
 
@@ -115,4 +124,14 @@
   — Alan Kay
 </p>
 
+---
 
+## 🎧 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JNy7DzgqUnh9p93aru/giphy.gif" width="200" alt="music" />
+  <br>
+  <i>Currently coding to: Lo-fi beats</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn&fontAlignY=50"/>
