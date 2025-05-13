@@ -57,7 +57,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9hY2RtbHZ4N2d4eXg0OGE1d3BqM2Y5dXh4aHV2MmFwaWQ5dmljeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="250" style="border-radius: 15px; float: right; margin-left: 20px;"/>
   
   <div style="font-family: 'Segoe UI', sans-serif; background: rgba(110,84,148,0.1); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05); text-align: left;">
-    🔹 Basic Calculator - My first Python GUI application  
+    🔹 Basic Calculator - My first Python GUI application <br><br>
     🔹 To-Do List App - Simple web-based task manager  
     🔹 College Projects - Various assignments and programs  
     🔹 Coding Practice - My solutions to beginner problems  
@@ -80,8 +80,6 @@
 
 ## 🌐 Let's Connect
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdzM2Zibmh1ejlscjFxZWdtMmZscjNmY3VwaTRtaTFiZ3ZwcHpoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fU4el3TgqZLJhoGMWU/giphy.gif" width="150" style="border-radius: 15px; margin-bottom: 20px;"/>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <a href="https://www.linkedin.com/in/antriksh-manwadkar-0b3671314/" target="_blank">
