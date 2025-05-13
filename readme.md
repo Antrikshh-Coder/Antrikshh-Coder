@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Your Photo -->
-  <img src="https://avatars.githubusercontent.com/u/your-profile-id" width="200" style="border-radius: 50%; border: 5px solid #ff5e62;" alt="Antriksh Manwadkar" />
+  <img src="https://avatars.githubusercontent.com/u/184906996?s=400&u=7e1e9275c1d263c27f1536d08402b9a479bc2e6a&v=4" width="200" style="border-radius: 50%; border: 5px solid #ff5e62;" alt="Antriksh Manwadkar" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔥 About Me
+## 🔥 About Me 🚀
 
 <div style="font-family: 'Verdana', sans-serif;">
 
@@ -32,14 +32,6 @@
 - ☕ Fuel: **Chai enthusiast | Code addict**  
 
 </div>
-
----
-
-## 🎮 Play My Snake Game!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/antrikshh-coder/antrikshh-coder/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
 
 ---
 
@@ -124,14 +116,3 @@
   — Alan Kay
 </p>
 
----
-
-## 🎧 Coding Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JNy7DzgqUnh9p93aru/giphy.gif" width="200" alt="music" />
-  <br>
-  <i>Currently coding to: Lo-fi beats</i>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn&fontAlignY=50"/>
