@@ -1,71 +1,100 @@
-<!-- Font Import (Markdown can't apply it, but included for reference) -->
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
-
 <!-- README STARTS -->
 
-<h1 align="center">Hi 👋, I'm Antriksh Sandesh .Manwadkar 🧡 </h1>
+<h1 align="center">Hi 👋, I'm Antriksh Sandesh Manwadkar 🧡</h1>
 
+<p align="center">
+  <img src="![Profile](https://github.com/user-attachments/assets/885a3cb1-bb23-44b7-be29-973994cb3050)
+![Uploading Profile.jpg…]()
+" width="150" height="150" style="border-radius: 50%;" alt="Antriksh Profile Picture" />
+</p>
 
 <h3 align="center">💻 Developer | 🚀 Builder | 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coder-gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="typing-coder" />
 </p>
 
 <h4 align="center">Turning ideas into real-world applications — clean code, clever ideas & continuous improvement.</h4>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer"/>
+
 ---
 
-### 🔥 About Me 🚀
+## 🔥 About Me 🚀
 
-- 🔭 I’m currently working on **HTML / CSS Projects**  
-- 🌱 I’m learning **Frontend Development**  
+- 🔭 Currently building **HTML / CSS Projects**  
+- 🌱 Learning **Frontend Development**  
 - 💬 Ask me about **Python, C++, HTML, CSS, No Code Platforms**  
 - 📫 Reach me at: **antrikshmanwadkar33@gmail.com**  
-- ⚡ Fun fact: **I debug better with a cup of chai ☕**
+- ☕ Fun fact: **I debug better with a cup of chai**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/antriksh-manwadkar-0b3671314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/antrikshh_30?igsh=bGt5dWdlNzNiZXp6" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.snapchat.com/add/antriksh_304?share_id=ZJt-XrJ6Xj8&locale=en-US" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge" alt="Snapchat" />
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antrikshh-coder&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=tokyonight" width="300"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=antrikshh-coder&theme=tokyonight" width="600"/>
+</p>
 
 ---
 
+## 🕹️ Play a Game With Me!
+
+<p align="center">
+  <a href="https://antrikshh-coder.github.io/snake-game/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮 Play Snake Game!-ff69b4?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Dev GIFs
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsspf0CfwqzmN7u/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3ohhwxLtE6rXe3sEQk/giphy.gif" width="300" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer"/>
