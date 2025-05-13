@@ -8,7 +8,7 @@
 
 <!-- Animated Coding GIF -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(255,94,98,0.4);" alt="Team Coding Animation" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(255,94,98,0.4);" alt="Team Coding Animation" />
 </div>
 
 ## 🧑‍🎓 About Me 🚀
@@ -59,7 +59,7 @@
 
 ## 🚀 My Projects 🚀
 
-<div style="display: flex; align-items: center; margin: 30px 0; gap: 20px;">
+<div style="display: flex; align-items: center; margin: 0; gap: 20px;">
   <div style="flex: 1; font-family: 'Segoe UI', sans-serif; background: rgba(110,84,148,0.1); padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
     🔹 <b>Basic Calculator</b> - My first Python GUI application <br><br>
     🔹 <b>To-Do List App</b> - Simple web-based task manager <br><br>
@@ -67,15 +67,15 @@
     🔹 <b>Coding Practice</b> - Solutions to beginner problems <br><br>
   </div>
   <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" style="border-radius: 15px; max-width: 100%;"/>
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" style="border-radius: 15px; max-width: 100%;"/>
   </div>
 </div>
 
 ## 🌟 Current Goals 🌟
 
-<div style="display: flex; align-items: center; margin: 30px 0; gap: 20px;">
+<div style="display: flex; align-items: center; margin: 0; gap: 20px;">
   <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="border-radius: 15px; max-width: 100%;"/>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" style="border-radius: 15px; max-width: 100%;"/>
   </div>
   <div style="flex: 1; font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
     📌 <b>Mastering DSA</b> - Data Structures & Algorithms <br><br>
@@ -105,7 +105,7 @@
   </div>
   
   <div style="margin-top: 30px; position: relative;">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" style="position: absolute; left: 50px; top: -50px;"/>
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" style="position: absolute; left: 50px; top: -40px;"/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=footer"/>
     <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 18px;">Let's build something amazing together! 👨‍💻</p>
   </div>
