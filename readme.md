@@ -42,9 +42,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="margin: 40px 0;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjOXFhMmt3bTF5MW9yaDJ6dTZjcGh2dTdoNGR4ajJpbjd2bzQ2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" style="border-radius: 15px; margin-bottom: 20px;" />
-
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&count_private=true&theme=radical&hide_border=true&line_height=20&card_width=300" width="270"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=radical&hide_border=true&card_width=300" width="270"/>
