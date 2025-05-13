@@ -7,6 +7,7 @@
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966; margin-top: -10px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">🎓 First-Year CS Student | 💻 Aspiring Developer | 🌱 Continuous Learner</h3>
 
 <!-- Animated Coding GIF -->
+<div align="center" style="margin: 20px 0;">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(255,94,98,0.4);" alt="Team Coding Animation" />
 </p>
 
