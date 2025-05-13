@@ -2,11 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Antriksh Sandesh Manwadkar 🧡</h1>
 
-<p align="center">
-  <img src="![Profile](https://github.com/user-attachments/assets/885a3cb1-bb23-44b7-be29-973994cb3050)
-![Uploading Profile.jpg…]()
-" width="150" height="150" style="border-radius: 50%;" alt="Antriksh Profile Picture" />
-</p>
+
 
 <h3 align="center">💻 Developer | 🚀 Builder | 📚 Lifelong Learner</h3>
 
@@ -78,22 +74,10 @@
 
 ---
 
-## 🕹️ Play a Game With Me!
 
-<p align="center">
-  <a href="https://antrikshh-coder.github.io/snake-game/" target="_blank">
-    <img src="https://img.shields.io/badge/🎮 Play Snake Game!-ff69b4?style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
-## ✨ Fun Dev GIFs
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsspf0CfwqzmN7u/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/3ohhwxLtE6rXe3sEQk/giphy.gif" width="300" />
-</p>
 
 ---
 
