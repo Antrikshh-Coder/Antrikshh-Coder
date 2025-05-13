@@ -5,10 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Antriksh Sandesh .Manwadkar 🧡 </h1>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/1e0124fb-c040-4988-a15f-d0ed8d428805)
-" alt="Antriksh's Profile" width="150" height="150" style="border-radius: 50%;" />
-</p>
 
 <h3 align="center">💻 Developer | 🚀 Builder | 📚 Lifelong Learner</h3>
 
