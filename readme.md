@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ff5e62;">Hi 👋, I'm Antriksh Sandesh Manwadkar 💻</h1>
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966;">🚀 Full Stack Developer | 🔥 Tech Innovator | 🌱 Continuous Learner</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966;">💻 Developer | 🚀 Builder | 📚 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="developer" />
@@ -27,7 +27,7 @@
 - 👯 Looking to collaborate on **innovative open-source projects**  
 - 💬 Ask me about **Python, C++, or Web Development**  
 - 📫 How to reach me: **antrikshmanwadkar33@gmail.com**  
-- ⚡ Fun fact: **I can solve a Rubik's cube blindfolded**  
+- ⚡ Fun fact: **I debug better with a cup of chai**  
 - ☕ Fuel: **Chai enthusiast | Code addict**  
 
 </div>
@@ -122,7 +122,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/JNy7DzgqUnh9p93aru/giphy.gif" width="200" alt="music" />
   <br>
-  <i>Currently coding to: Lo-fi beats</i>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn&fontAlignY=50"/>
+  
