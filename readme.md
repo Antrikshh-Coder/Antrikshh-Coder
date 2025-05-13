@@ -6,14 +6,14 @@
 
 <p align="center">
   <!-- Your Photo -->
-  <img src="https://avatars.githubusercontent.com/u/184906996?s=400&u=7e1e9275c1d263c27f1536d08402b9a479bc2e6a&v=4" width="200" style="border-radius: 50%; border: 5px solid #ff5e62;" alt="Antriksh Manwadkar" />
+  <img src="https://avatars.githubusercontent.com/u/184906996?s=400&u=7e1e9275c1d263c27f1536d08402b9a479bc2e6a&v=4" width="200" style="border-radius: 50%; border: 5px solid #ff5e62; box-shadow: 0 0 20px rgba(255,94,98,0.5);" alt="Antriksh Manwadkar" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="developer" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="coding animation" />
 </p>
 
-<h4 align="center" style="font-family: 'Arial', sans-serif; color: #6e5494;">Crafting digital experiences • Turning ideas into reality • One commit at a time</h4>
+<h4 align="center" style="font-family: 'Arial', sans-serif; color: #6e5494; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Crafting digital experiences • Turning ideas into reality • One commit at a time</h4>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn&fontAlignY=50"/>
 
@@ -21,7 +21,7 @@
 
 ## 🔥 About Me 🚀
 
-<div style="font-family: 'Verdana', sans-serif;">
+<div style="font-family: 'Verdana', sans-serif; background: rgba(255,150,102,0.1); padding: 15px; border-radius: 10px;">
 
 - 🔭 Currently building **Interactive Web Applications**  
 - 🌱 Mastering **Frontend Development & Database Systems**  
@@ -32,6 +32,14 @@
 - ☕ Fuel: **Chai enthusiast | Code addict**  
 
 </div>
+
+---
+
+## 🎮 GitHub Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/antrikshh-coder/antrikshh-coder/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
 
 ---
 
@@ -86,10 +94,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&theme=radical" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh-coder&layout=compact&theme=radical" width="300"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=antrikshh-coder&theme=radical&fire=DD2727&ring=DD2727" width="600"/>
@@ -104,15 +112,28 @@
 ## 🚀 Current Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="300" alt="projects" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="projects" />
 </p>
 
 ---
 
 ## 💡 Developer Wisdom
 
-<p align="center" style="font-family: 'Georgia', serif; font-style: italic;">
-  "The most disastrous thing that you can ever learn is your first programming language."<br>
-  — Alan Kay
+<div align="center" style="background: rgba(110,84,148,0.1); padding: 20px; border-radius: 10px; border-left: 5px solid #6e5494;">
+  <p style="font-family: 'Georgia', serif; font-style: italic; font-size: 1.1em;">
+    "First, solve the problem. Then, write the code."<br>
+    — John Johnson
+  </p>
+</div>
+
+---
+
+## 🎧 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JNy7DzgqUnh9p93aru/giphy.gif" width="200" alt="music" />
+  <br>
+  <i>Currently coding to: Lo-fi beats</i>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn&fontAlignY=50"/>
