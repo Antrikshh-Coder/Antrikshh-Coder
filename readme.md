@@ -143,7 +143,6 @@
 <p align="center" style="margin-top: 30px; background: rgba(110,84,148,0.1); padding: 20px; border-radius: 15px;">
   <img src="https://media.giphy.com/media/ZBQhoZC0nqknSviPqT/giphy.gif" width="250" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Music vibes" />
   <br>
-  <span style="font-style: italic; font-size: 0.9em; color: #6e5494;">Currently coding to: Electronic Focus Beats</span>
 </p>
 
 <!-- Waving Footer -->
