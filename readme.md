@@ -3,10 +3,10 @@
 
 <!-- README STARTS -->
 
-<h1 align="center">Hi 👋, I'm Antriksh Sandesh .Manwadkar </h1>
+<h1 align="center">Hi 👋, I'm Antriksh Sandesh .Manwadkar 🧡 </h1>
 
 <p align="center">
-  <img src="![Profile](https://github.com/user-attachments/assets/3accc37f-64b3-4586-8b4c-953824232136)
+  <img src="![image](https://github.com/user-attachments/assets/1e0124fb-c040-4988-a15f-d0ed8d428805)
 " alt="Antriksh's Profile" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
@@ -69,7 +69,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antrikshh-coder&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antrikshh-coder" alt="GitHub Streak" /></p>
+
 
 ---
 
