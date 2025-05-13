@@ -39,7 +39,6 @@
 
 ## 🌐 Connect With Me
 
-<p align="center" style="margin: 25px 0;">
   <!-- Animated Social Badges -->
   <a href="https://www.linkedin.com/in/antriksh-manwadkar-0b3671314/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" />
@@ -66,7 +65,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p align="center" style="margin: 20px 0;">
+
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" />
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=ED8B00" />
@@ -74,14 +73,14 @@
 </p>
 
 ### 🌐 Web Technologies
-<p align="center" style="margin: 20px 0;">
+
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
 </p>
 
 ### 🧰 Tools
-<p align="center" style="margin: 20px 0;">
+
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" />
   <img src="https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0078D4" />
