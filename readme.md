@@ -1,36 +1,40 @@
 <!-- README STARTS -->
 
-<h1 align="center">Hi 👋, I'm Antriksh Sandesh Manwadkar 🧡</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ff5e62;">Hi 👋, I'm Antriksh Sandesh Manwadkar 💻</h1>
 
-<h3 align="center">💻 Full Stack Developer | � Tech Enthusiast | 📚 Knowledge Seeker</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966;">🚀 Full Stack Developer | 🔥 Tech Innovator | 🌱 Continuous Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="developer" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="typing-coder" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="coding" />
 </p>
 
-<h4 align="center">Transforming coffee into code • Building digital experiences • Learning in public</h4>
+<h4 align="center" style="font-family: 'Arial', sans-serif; color: #6e5494;">Crafting digital experiences • Turning ideas into reality • One commit at a time</h4>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn&fontAlignY=50"/>
 
 ---
 
-## 🔥 About Me 🚀
+## 🔥 About Me
 
-- 🔭 Currently building **Interactive Web Projects**  
-- 🌱 Deep diving into **Frontend Development & Databases**  
-- 👯 Looking to collaborate on **open source projects**  
-- 💬 Ask me about **Python, C++, Web Development**  
+<div style="font-family: 'Verdana', sans-serif;">
+
+- 🔭 Currently building **Interactive Web Applications**  
+- 🌱 Mastering **Frontend Development & Database Systems**  
+- 👯 Looking to collaborate on **innovative open-source projects**  
+- 💬 Ask me about **Python, C++, or Web Development**  
 - 📫 How to reach me: **antrikshmanwadkar33@gmail.com**  
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
-- ☕ Fuel: **Chai > Coffee**
+- ⚡ Fun fact: **I can solve a Rubik's cube blindfolded**  
+- ☕ Fuel: **Chai enthusiast | Code addict**  
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antriksh-manwadkar-0b3671314/" target="_blank">
@@ -45,33 +49,36 @@
   <a href="https://github.com/antrikshh-coder" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:antrikshmanwadkar33@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠️ Tools
+### 🧰 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" />
 </p>
 
 ---
@@ -84,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=antrikshh-coder&theme=radical&fire=DD2727" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=antrikshh-coder&theme=radical&fire=DD2727&ring=DD2727" width="600"/>
 </p>
 
 <p align="center">
@@ -93,20 +100,29 @@
 
 ---
 
-## 🎯 Currently Focusing On
+## 🚀 Current Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="html" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="css" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="javascript" />
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="300" alt="projects" />
 </p>
 
 ---
 
-## 💡 Quote I Live By
+## 💡 Developer Wisdom
+
+<p align="center" style="font-family: 'Georgia', serif; font-style: italic;">
+  "The most disastrous thing that you can ever learn is your first programming language."<br>
+  — Alan Kay
+</p>
+
+---
+
+## 🎧 Coding Vibes
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> - John Johnson
+  <img src="https://media.giphy.com/media/JNy7DzgqUnh9p93aru/giphy.gif" width="200" alt="music" />
+  <br>
+  <i>Currently coding to: Lo-fi beats</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer&animation=fadeIn&fontAlignY=50"/>
