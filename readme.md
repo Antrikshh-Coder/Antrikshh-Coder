@@ -72,13 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=antrikshh-coder&theme=tokyonight" width="600"/>
 </p>
 
----
 
-
-
----
-
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer"/>
