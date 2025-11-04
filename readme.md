@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=500&color=FF5E62&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Antriksh+Manwadkar+%F0%9F%8E%A1" alt="Typing animation" />
 </div>
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966; margin-top: -10px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">🎓 First-Year CSE Student | 💻 Aspiring Developer | 🌱 Continuous Learner | 🎨UI/UX Designer </h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ff9966; margin-top: -10px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">🎓 Second-Year CSE Student | 💻 Aspiring Developer | 🌱 Continuous Learner | 🎨UI/UX Designer </h3>
 
 <!-- Animated Coding GIF -->
 <div align="center" style="margin: 20px 0;">
