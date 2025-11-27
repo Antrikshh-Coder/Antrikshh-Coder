@@ -15,7 +15,7 @@
 
 <div style="font-family: 'Segoe UI', sans-serif; background: rgba(255,150,102,0.1); padding: 20px; border-radius: 12px; border-left: 5px solid #ff5e62; margin: 20px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
   
-  🎓 Currently pursuing my **Bachelor's in Computer Science** (First Year)  
+  🎓 Currently pursuing my **Bachelor's in Computer Science** (Second Year)  
   💡 Passionate about **problem solving** and **software development**  
   🌱 Learning **Python, Java, C++, and Web Development** fundamentals  
   ☕ **Chai enthusiast** and **late-night coder**  
