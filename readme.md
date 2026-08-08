@@ -93,7 +93,7 @@ Education
 
 B.Tech Computer Science Engineering
 
-Second Year
+Third Year
 
 ----------------------------------------
 
@@ -129,7 +129,7 @@ public class Developer {
 
     String education = "B.Tech CSE";
 
-    String university = "Second Year";
+    String university = "Third Year";
 
     String[] skills = {
 
