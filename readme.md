@@ -1,6 +1,6 @@
 <div align="center">
 
-# `ANTRIKSH /`
+# `ANTRIKSH MANWADKAR`
 
 ### `I DESIGN. I BUILD. I EXPLORE.`
 
