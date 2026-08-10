@@ -1,407 +1,314 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    ANTRIKSH MANWADKAR                      -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                 ANTRIKSH MANWADKAR                           ║
+║        UI/UX • FULL STACK • CREATIVE DEVELOPMENT              ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8A2BE2,FF69B4&height=230&section=header&text=ANTRIKSH%20MANWADKAR&fontSize=62&fontAlign=50&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer%20%7C%20Tech%20Explorer&descAlign=50&descAlignY=60&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,30&text=ANTRIKSH%20MANWADKAR&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Designing%20Ideas%20%7C%20Building%20Experiences%20%7C%20Learning%20Technology&descSize=17&descAlignY=60" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&height=120&lines=👋+Hey!+I'm+Antriksh+Manwadkar;🎨+UI%2FUX+Designer+%26+Creative+Developer;💻+Building+Full+Stack+Projects;🌐+Creating+Modern+Websites;🚀+Turning+Ideas+Into+Real+Products;🧠+Always+Learning+New+Technology" alt="Typing SVG" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🎓%20Third%20Year-B.Tech%20CSE-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎨-UI%2FUX%20Design-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻-Full%20Stack-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀-Builder-FF9800?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="420" alt="Coding Animation"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3&section=header" width="100%"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-<div align="center">
-
-### Hey there! I'm **Antriksh** 👋
-
-</div>
-
-I'm a **Third-Year B.Tech Computer Science & Engineering student** who enjoys bringing together **design, technology, and creativity** to build meaningful digital experiences.
-
-My main interests are **UI/UX Design, Full Stack Development, and Web Development**. I enjoy taking an idea from a simple concept, designing the experience, writing the code, and turning it into a working website or application.
-
-```text
-🎨 Design
-   ↓
-💡 Idea
-   ↓
-💻 Development
-   ↓
-🧪 Testing
-   ↓
-🚀 Deployment
-   ↓
-✨ Better Experience
-```
-
-### 🔭 Currently Working On
-
-* 🎨 Improving my **UI/UX design** and design thinking
-* 💻 Building **full-stack web applications**
-* 🌐 Creating modern, responsive and interactive websites
-* 🧩 Working on real-world projects
-* 🧠 Strengthening my programming and technical fundamentals
-* 🚀 Exploring new technologies and development tools
-
-### 🎯 My Goal
-
-> **To become a versatile developer who can understand the user, design the experience, build the product, and continuously improve it.**
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="Developer Animation"/>
-
-</div>
-
----
-
-# 🎨 UI/UX × 💻 Full Stack
-
-<div align="center">
-
-### I don't want to choose between design and development.
-
-### I want to understand both. 🚀
-
-</div>
-
-<br>
-
-```text
-                    💡 IDEA
-                      │
-                      ▼
-              ┌───────────────┐
-              │   🎨 UI / UX  │
-              │   DESIGN      │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   🌐 FRONTEND │
-              │   DEVELOPMENT │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   ⚙️ BACKEND  │
-              │   DEVELOPMENT │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   🗄️ DATABASE │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   🚀 DEPLOY   │
-              └───────────────┘
-```
-
----
-
-# 🛠️ Tech Stack & Arsenal
-
-## 💻 Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,dart&perline=6"/>
-
-</div>
-
-<br>
-
-## 🌐 Web Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express&perline=6"/>
-
-</div>
-
-<br>
-
-## 🗄️ Database & Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=6"/>
-
-</div>
-
-<br>
-
-## 🎨 UI/UX & Design
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma&perline=6"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2600&pause=700&color=FF69B4&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Antriksh+%F0%9F%91%8B;Third-Year+CSE+Student+%F0%9F%8E%93;UI%2FUX+%26+Creative+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;I+Build+Websites+That+Feel+Alive+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/UI%20Design-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UX%20Design-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-00BCD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prototyping-FF9800?style=for-the-badge"/>
+<a href="https://github.com/Antrikshh-Coder">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:antriksh.manwadkar.asm@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Antrikshh-Coder&style=for-the-badge&color=FF69B4&label=VISITORS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE2YTQ4M2J0ajVrbThyc2hlZ3Bja2UzcWRwbmN2d3FqZ3h5eno1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" width="480"/>
+
+### `DESIGN × CODE × CURIOSITY`
+
+</div>
+
+---
+
+# 🧑‍💻 WHO AM I?
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   👋  I'm Antriksh Manwadkar                                │
+│                                                             │
+│   🎓  Third-Year B.Tech CSE Student                         │
+│   🎨  UI/UX & Creative Design Enthusiast                   │
+│   💻  Full Stack Developer                                  │
+│   🌐  Web Development Explorer                              │
+│   🧠  Problem Solver                                        │
+│                                                             │
+│   I like turning ideas into functional,                     │
+│   responsive and visually engaging products.                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+I'm interested in the space where **good design meets good engineering**.
+
+I enjoy creating websites, experimenting with interfaces, building full-stack applications and learning technologies by actually using them in projects.
+
+> **I don't want to just write code. I want to build experiences.**
+
+---
+
+# ⚡ MY CURRENT MODE
+
+<div align="center">
+
+| 🎨 DESIGN |  💻 BUILD  | 🧠 LEARN |    🚀 SHIP    |
+| :-------: | :--------: | :------: | :-----------: |
+|  UI / UX  | Full Stack | New Tech | Real Projects |
 
 </div>
 
 <br>
 
-## ⚙️ Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws&perline=6"/>
-
-</div>
-
----
-
-# 🚀 What I Love Building
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🎨
-
-### UI/UX
-
-Beautiful & intuitive digital experiences
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-### Websites
-
-Modern, responsive & interactive websites
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-### Full Stack
-
-Complete applications from frontend to backend
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-### Products
-
-Ideas transformed into real-world projects
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🏥 Shri Sai Clinic</h3>
-
-<p align="center">
-<b>Healthcare Website</b>
-</p>
-
-<p align="center">
-A modern website concept designed for a local clinic with a focus on accessibility, clean UI and a better patient experience.
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/UI%2FUX-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Web-Development-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Responsive-00BCD4?style=flat-square"/>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🐾 Petzz</h3>
-
-<p align="center">
-<b>Pet Care Platform</b>
-</p>
-
-<p align="center">
-A pet-care platform concept focused on veterinary services, appointments, pet profiles and a simple user experience.
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">☁️ QuantumCommerce</h3>
-
-<p align="center">
-<b>DevOps & Cloud Project</b>
-</p>
-
-<p align="center">
-An end-to-end project exploring CI/CD, containers, cloud infrastructure, monitoring and deployment automation.
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🧬 Parampara</h3>
-
-<p align="center">
-<b>Digital Legacy Platform</b>
-</p>
-
-<p align="center">
-A concept focused on securely preserving important documents, memories and digital legacy for future access.
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Product%20Design-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Web%20App-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/UX-00BCD4?style=flat-square"/>
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🧠 What I'm Learning
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=800&lines=Improving+UI%2FUX+Design...;Building+Full+Stack+Applications...;Creating+Better+Websites...;Learning+Modern+Development...;Exploring+New+Technologies...;Turning+Ideas+Into+Projects..." />
-
-</div>
-
-### 📚 Current Focus
-
-| Area                   | Focus                                                     |
-| ---------------------- | --------------------------------------------------------- |
-| 🎨 **UI/UX**           | User research, wireframes, prototypes, design systems     |
-| 🌐 **Frontend**        | Responsive interfaces, animations, modern web experiences |
-| ⚙️ **Backend**         | APIs, authentication, server-side development             |
-| 🗄️ **Database**       | SQL, MongoDB, Firebase                                    |
-| 🚀 **Full Stack**      | Building complete end-to-end applications                 |
-| ☁️ **Deployment**      | Cloud, hosting and production environments                |
-| 🧠 **Problem Solving** | DSA, programming logic & technical fundamentals           |
-
----
-
-# 🔥 My Development Philosophy
-
-<div align="center">
-
 ```text
-LEARN
-  ↓
-DESIGN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-REPEAT 🔁
+                ┌───────────────┐
+                │      💡       │
+                │     IDEA      │
+                └───────┬───────┘
+                        ↓
+                ┌───────────────┐
+                │      🎨       │
+                │    DESIGN     │
+                └───────┬───────┘
+                        ↓
+                ┌───────────────┐
+                │      💻       │
+                │     CODE      │
+                └───────┬───────┘
+                        ↓
+                ┌───────────────┐
+                │      🧪       │
+                │    TEST       │
+                └───────┬───────┘
+                        ↓
+                ┌───────────────┐
+                │      🚀       │
+                │     SHIP      │
+                └───────┬───────┘
+                        ↓
+                   🔁 IMPROVE
 ```
 
-### "Every project is another opportunity to learn something new."
+---
+
+# 🎨 DESIGNER'S SIDE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="70"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UI%20Design-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UX%20Thinking-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prototyping-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-FF9800?style=for-the-badge"/>
+
+</div>
+
+I enjoy designing interfaces that are:
+
+```text
+        SIMPLE
+          ↓
+       INTUITIVE
+          ↓
+       BEAUTIFUL
+          ↓
+       USEFUL
+```
+
+My goal is to make technology feel **easy, natural and enjoyable to use**.
+
+---
+
+# 💻 DEVELOPER'S SIDE
+
+<div align="center">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 🧩 THINGS I CAN BUILD
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🌐  Responsive Websites                                │
+│                                                         │
+│  🎨  UI/UX Interfaces                                   │
+│                                                         │
+│  ⚛️  React Applications                                 │
+│                                                         │
+│  ⚙️  REST APIs & Backend Systems                        │
+│                                                         │
+│  🗄️  Database-Driven Applications                       │
+│                                                         │
+│  🔐  Authentication & CRUD Systems                       │
+│                                                         │
+│  🎮  Interactive Web Experiences                         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🚀 PROJECT LAB
+
+### 🎨 ArtFlow
+
+**Full Stack Web Application**
+
+A scalable platform built using **React, Node.js, Express and MongoDB**, with authentication, CRUD operations, dynamic content management and API-driven architecture.
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+### 💼 HackerRank Jobs Clone
+
+**Interactive Job & Certification Platform**
+
+A functional clone featuring certification tests, live timers, auto-evaluation, result dashboards, authentication, responsive UI, dark mode and payment workflow.
+
+`JavaScript` `HTML` `CSS` `Authentication`
+
+---
+
+### 🎮 GameZone
+
+**Interactive Gaming Platform**
+
+A browser-based gaming experience focused on interactive logic, animations, game states, scoring systems, levels and responsive design.
+
+`JavaScript` `HTML` `CSS` `Animations`
+
+---
+
+# 🧠 TECHNICAL JOURNEY
+
+```text
+             ┌──────────────┐
+             │ Programming  │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ Web Design   │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ UI / UX      │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ Frontend     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ Backend      │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ Full Stack   │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ Real World   │
+             │ Products 🚀  │
+             └──────────────┘
+```
+
+---
+
+# 📚 CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=700&color=8A2BE2&center=true&vCenter=true&width=750&lines=Improving+UI%2FUX...;Building+More+Full+Stack+Projects...;Creating+Better+Websites...;Exploring+Modern+Frameworks...;Strengthening+DSA+%26+DBMS...;Learning+Something+New+Every+Day..." />
+
+</div>
+
+### 🎯 My Focus
+
+* 🎨 Become better at **UI/UX Design**
+* 🌐 Build more **modern websites**
+* 💻 Create more **full-stack applications**
+* 🧠 Improve **problem-solving & DSA**
+* ⚙️ Learn better backend architecture
+* 🗄️ Improve database knowledge
+* 🚀 Understand deployment & production
+* 🔥 Keep experimenting with new technologies
+
+---
+
+# 🏆 CERTIFICATIONS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Postman-API%20Certification-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pieces-GenAI%20101-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BharatVR-Snapchat%20Lens%20Making-00BCD4?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌍 BEYOND CODE
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400"/>
+
+</div>
+
+I also enjoy **creative designing, gaming, reading and exploring new technology**.
+
+I've also been involved in **college event management and cultural activities**, which has helped me develop teamwork, communication and leadership skills.
+
+---
+
+# 📊 GITHUB UNIVERSE
 
 <div align="center">
 
@@ -411,96 +318,97 @@ REPEAT 🔁
 
 <br><br>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Antrikshh-Coder&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Antrikshh-Coder&theme=tokyonight&hide_border=true" width="80%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Antrikshh-Coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Antrikshh-Coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Activity
+# 🌌 ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antrikshh-Coder&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&line=8A2BE2&point=FF69B4" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antrikshh-Coder&bg_color=0D1117&color=FFFFFF&line=8A2BE2&point=FF69B4&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 THE CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Antrikshh-Coder/Antrikshh-Coder/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Antrikshh-Coder/Antrikshh-Coder/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🌱 My Journey
-
-<div align="center">
+# 🔮 WHAT'S NEXT?
 
 ```text
-       👨‍💻
-       │
-       ▼
-  Programming
-       │
-       ▼
- Web Development
-       │
-       ▼
-  🎨 UI/UX Design
-       │
-       ▼
-Frontend Development
-       │
-       ▼
-Backend Development
-       │
-       ▼
-Full Stack Projects
-       │
-       ▼
- Real World Products
-       │
-       ▼
-  🚀 Continuous Growth
+2026
+ │
+ ├── 🎨 Level Up UI/UX
+ │
+ ├── 🌐 Build More Websites
+ │
+ ├── 💻 Create Full Stack Projects
+ │
+ ├── 🧠 Deepen Technical Knowledge
+ │
+ ├── 🚀 Build Real-World Products
+ │
+ └── ✨ Keep Experimenting
 ```
-
-</div>
 
 ---
 
-# 🎯 2026 Goals
+# 💬 ONE LAST THING
 
 <div align="center">
 
-| Goal                              |     Status     |
-| :-------------------------------- | :------------: |
-| 🎨 Improve UI/UX Design           |   🔄 Learning  |
-| 🌐 Build More Websites            | 🔄 In Progress |
-| 💻 Create Full Stack Projects     | 🔄 In Progress |
-| 🧠 Strengthen Technical Knowledge |   🔄 Learning  |
-| 🚀 Build Real-World Products      |     🎯 Goal    |
-| 📚 Explore New Technologies       |    🔄 Always   |
+### I believe in building instead of just learning.
+
+<br>
+
+**Learn something.**
+
+↓
+
+**Build something.**
+
+↓
+
+**Break something.**
+
+↓
+
+**Fix it.**
+
+↓
+
+**Learn again.**
+
+<br>
+
+### `That's how I grow. 🚀`
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 LET'S CONNECT
 
 <div align="center">
 
@@ -508,8 +416,8 @@ Full Stack Projects
 <img src="https://img.shields.io/badge/GitHub-Antrikshh--Coder-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:antrikshmanwadkar33@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:antriksh.manwadkar.asm@gmail.com">
+<img src="https://img.shields.io/badge/Email-antriksh.manwadkar.asm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -518,22 +426,10 @@ Full Stack Projects
 
 <div align="center">
 
-### 💬 Open to learning, collaborating and building interesting projects.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Antrikshh-Coder&label=PROFILE%20VIEWS&style=for-the-badge&color=8A2BE2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=Design+with+purpose.;Code+with+curiosity.;Build+with+passion.;Keep+learning.+Keep+growing.+🚀" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing+🚀;Design+with+Purpose+%E2%80%A2+Code+with+Passion+%E2%9C%A8;See+an+Idea.+Build+It.+Make+It+Better." />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8A2BE2,FF69B4&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,30&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
