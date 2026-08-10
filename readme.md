@@ -1,6 +1,6 @@
 <div align="center">
 
-# `ANTRIKSH.EXE`
+# `ANTRIKSH MANWADKAR`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1800&pause=500&color=8A2BE2&center=true&vCenter=true&width=900&height=60&lines=%3E+booting+Antriksh...;%3E+loading+curiosity...;%3E+loading+design+engine...;%3E+loading+developer+mode...;%3E+system+ready+%E2%9C%93" />
 
