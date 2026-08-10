@@ -1,30 +1,20 @@
 <div align="center">
 
-# `ANTRIKSH MANWADKAR`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1800&pause=500&color=8A2BE2&center=true&vCenter=true&width=900&height=60&lines=%3E+booting+Antriksh...;%3E+loading+curiosity...;%3E+loading+design+engine...;%3E+loading+developer+mode...;%3E+system+ready+%E2%9C%93" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=ANTRIKSH%20MANWADKAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer%20%7C%20Creative%20Builder&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
-```text id="9q0w8x"
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                  ANTRIKSH SANDESH MANWADKAR                  │
-│                                                              │
-│       THIRD-YEAR CSE STUDENT  //  DESIGNER  //  BUILDER      │
-│                                                              │
-│       ┌──────────┐   ┌──────────┐   ┌──────────┐             │
-│       │  DESIGN  │ + │   CODE   │ + │ CURIOSITY│             │
-│       └──────────┘   └──────────┘   └──────────┘             │
-│                                                              │
-│                    STATUS: BUILDING 🚀                       │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=2200&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=🎨+Designing+Digital+Experiences;💻+Building+Full+Stack+Applications;🌐+Creating+Modern+Websites;🧠+Exploring+New+Technology;🔐+Learning+Cybersecurity;🚀+Turning+Ideas+Into+Reality" />
 
-<br>
+<br><br>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,cpp,figma&perline=6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/THIRD%20YEAR-CSE-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-DESIGN-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00C853?style=for-the-badge"/>
 
 </div>
 
@@ -32,403 +22,382 @@
 
 <div align="center">
 
-## `> WHOAMI`
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-### **A developer who thinks like a designer.**
+# 👋 Hey, I'm Antriksh!
 
-### **A designer who likes to code.**
-
-### **A student who refuses to stop learning.**
+### **I design experiences. I write code. I build things.**
 
 </div>
 
-I’m **Antriksh**, a third-year Computer Science Engineering student interested in the intersection of **UI/UX, web development and full-stack engineering**.
+I'm a **Third-Year B.Tech Computer Science Engineering student** with a growing interest in **UI/UX design, full-stack development, web development and modern technology**.
 
-I like starting with a blank screen and asking:
+I enjoy taking an idea from:
 
-```text
-"What can I make from this?"
-```
+**💡 Concept → 🎨 Design → 💻 Code → 🚀 Product**
 
-Then I design it.
-
-Then I code it.
-
-Then I break it.
-
-Then I fix it.
-
-Then I make it better.
-
----
-
-# `> CURRENT_STATE`
-
-```text id="5o3x3p"
-╭──────────────────────────────────────────────╮
-│                                              │
-│  🎓 EDUCATION        THIRD YEAR CSE          │
-│                                              │
-│  🎨 DESIGN           UI / UX                 │
-│                                              │
-│  💻 DEVELOPMENT      FULL STACK              │
-│                                              │
-│  🌐 BUILDING         WEBSITES                │
-│                                              │
-│  🔐 EXPLORING        CYBERSECURITY           │
-│                                              │
-│  🧠 MODE             ALWAYS LEARNING         │
-│                                              │
-│  ⚡ ENERGY           BUILD > WATCH           │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+My goal is to become someone who can understand both **how a product should feel** and **how it should work**.
 
 ---
 
 <div align="center">
 
-# `> MY BRAIN HAS TWO MODES`
-
-</div>
+# ✨ MY DIGITAL SPACE
 
 <table>
 <tr>
+<td align="center" width="25%">
 
-<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/paint-palette.png"/>
 
-# 🎨 `CREATIVE_MODE`
+### 🎨 DESIGN
 
-```text
-     IDEA
-      ↓
-   SKETCH
-      ↓
-   WIREFRAME
-      ↓
-   PROTOTYPE
-      ↓
-   EXPERIENCE
-```
-
-**UI/UX**
-
-I care about how something **looks, feels and behaves**.
+UI/UX
+Wireframes
+Prototypes
+Visual Design
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-# 💻 `BUILDER_MODE`
+<img src="https://img.icons8.com/fluency/96/source-code.png"/>
 
-```text
-     IDEA
-      ↓
-   FRONTEND
-      ↓
-    API
-      ↓
-   BACKEND
-      ↓
-   DATABASE
-      ↓
-    DEPLOY
-```
+### 💻 BUILD
 
-**FULL STACK**
-
-I care about how something **works behind the screen**.
+Frontend
+Backend
+APIs
+Databases
 
 </td>
 
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/web-design.png"/>
+
+### 🌐 CREATE
+
+Websites
+Interfaces
+Animations
+Experiences
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/rocket.png"/>
+
+### 🚀 EXPLORE
+
+AI
+Cybersecurity
+Cloud
+New Tech
+
+</td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-# `> THE THINGS I SPEAK`
-
 </div>
 
-```text id="5i6xbg"
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  LANGUAGES                                                 │
-│  ───────────────────────────────────────────────────────   │
-│  Python   C   C++   Java   JavaScript   Dart              │
-│                                                            │
-│  WEB                                                        │
-│  ───────────────────────────────────────────────────────   │
-│  HTML   CSS   JavaScript   React                           │
-│                                                            │
-│  BACKEND                                                    │
-│  ───────────────────────────────────────────────────────   │
-│  Node.js   Express.js                                     │
-│                                                            │
-│  DATA                                                       │
-│  ───────────────────────────────────────────────────────   │
-│  MongoDB   MySQL   Firebase                                │
-│                                                            │
-│  DESIGN                                                     │
-│  ───────────────────────────────────────────────────────   │
-│  Figma   UI   UX   Prototyping                            │
-│                                                            │
-│  TOOLS                                                      │
-│  ───────────────────────────────────────────────────────   │
-│  Git   GitHub   VS Code                                   │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-These technologies reflect the foundation listed in my CV.
-
 ---
 
-# `> SIDE QUESTS`
+# 🎨 UI/UX × 💻 DEVELOPMENT
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360"/>
-
-</div>
-
-Technology isn't the only thing I'm curious about.
-
-```text
-🎮 GAMING
-    │
-    ├── strategy
-    ├── competition
-    └── creativity
-
-📖 READING
-    │
-    └── ideas → perspectives
-
-🎨 CREATIVE DESIGN
-    │
-    └── imagination → interface
-
-🎪 EVENT MANAGEMENT
-    │
-    └── teamwork → leadership
-
-🔍 TECHNOLOGY
-    │
-    └── curiosity → experiments
-```
-
-My CV also reflects my involvement in event management, creative designing, gaming, reading and exploring technology.
-
----
-
-# `> ACHIEVEMENT_DATABASE`
-
-<div align="center">
-
-### `CERTIFICATIONS // UNLOCKED`
-
-</div>
-
-```text id="4e1n1k"
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  🟣 01  Deloitte Australia                               │
-│         Technology Job Simulation                          │
-│                                                            │
-│  🔴 02  WsCube Tech                                      │
-│         How to Become a Certified Ethical Hacker          │
-│         from Scratch                                      │
-│                                                            │
-│  🟠 03  Postman                                           │
-│         API Certification                                 │
-│                                                            │
-│  🟣 04  Pieces                                            │
-│         GenAI 101                                         │
-│                                                            │
-│  🔵 05  BharatVR                                          │
-│         Snapchat Lens Making                              │
-│                                                            │
-│  ⚪ 06  Microsoft Learn                                   │
-│         Technical Fundamentals & Learning Modules         │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-The Postman, Pieces GenAI 101 and BharatVR certifications are also present in my CV.
-
----
-
-<div align="center">
-
-# `> SECURITY_MODE`
-
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="380"/>
-
-### `ACCESS GRANTED`
-
-</div>
-
-Recently I've started exploring the **cybersecurity side of technology**.
-
-Not because I want to become only a security specialist—
-
-but because I believe a developer should understand:
-
-```text
-HOW THINGS WORK
-       +
-HOW THINGS CAN BREAK
-       +
-HOW TO BUILD THEM BETTER
-```
-
-### 🔐 Currently Exploring
-
-`Ethical Hacking` · `Web Security` · `Security Fundamentals` · `Secure Development`
-
----
-
-# `> LEARNING_ENGINE`
-
-<div align="center">
-
-```text
-             ┌───────────────┐
-             │    CURIOUS    │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    SEARCH     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │   EXPERIMENT  │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     BUILD     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     FAIL      │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     FIX       │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     LEARN     │
-             └───────┬───────┘
-                     │
-                     └──────────────↺
-```
-
-</div>
-
-### My current learning loop:
-
-**Build something → encounter a problem → research → experiment → understand → improve.**
-
-That's how I prefer learning technical concepts.
-
----
-
-# `> NEXT_VERSION`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2100&pause=650&color=FF69B4&center=true&vCenter=true&width=850&lines=%5B01%5D+Better+UI%2FUX;[%2002%5D+More+Websites;[%2003%5D+More+Full+Stack;[%2004%5D+Deeper+Technical+Knowledge;[%2005%5D+More+Cybersecurity;[%2006%5D+More+Experiments;[%2007%5D+More+Building" />
-
-</div>
-
-```text id="m2oh7a"
-        TODAY                         NEXT
-
-    UI / UX ────────────────→  DESIGN SYSTEMS
-       │
-       ├── WEB ─────────────→  ADVANCED FRONTEND
-       │
-       ├── FULL STACK ──────→  PRODUCTION APPS
-       │
-       ├── SECURITY ────────→  SECURE DEVELOPMENT
-       │
-       └── TECH ────────────→  DEEPER KNOWLEDGE
-```
-
----
-
-<div align="center">
-
-# `> GITHUB // LIVE FEED`
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Antrikshh-Coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+### **My favourite combination**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antrikshh-Coder&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2000&pause=700&color=FF69B4&center=true&vCenter=true&width=800&lines=Beautiful+Interfaces+%2B+Clean+Code;Good+Design+%2B+Good+Engineering;Creative+Thinking+%2B+Technical+Skills" />
+
+</div>
+
+---
+
+# ⚡ TECH STACK
+
+<div align="center">
+
+## 🧑‍💻 Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,dart&theme=dark&perline=6"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Antrikshh-Coder&theme=tokyonight&hide_border=true" width="75%"/>
+## 🌐 Frontend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark&perline=6"/>
+
+<br><br>
+
+## ⚙️ Backend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=6"/>
+
+<br><br>
+
+## 🗄️ Database
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark&perline=6"/>
+
+<br><br>
+
+## 🎨 Design
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+
+<br><br>
+
+## 🛠️ Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-# `> HUMAN.txt`
+<div align="center">
 
-```text id="z7u6ft"
-NAME       : Antriksh Sandesh Manwadkar
-LOCATION   : Thane, India
-ROLE       : Student / Designer / Developer
+# 🌟 WHAT I'M BUILDING MYSELF INTO
 
-LIKES      : UI/UX
-             Websites
-             Full Stack
-             Technology
-             Gaming
-             Creative Design
-             Learning
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350"/>
 
-CURRENTLY  : Building + Learning
+</div>
 
-STATUS     : ONLINE
+```text
+                 🎨 UI / UX
+                     │
+                     ▼
+              🌐 WEB DESIGN
+                     │
+                     ▼
+              ⚛️ FRONTEND
+                     │
+                     ▼
+               ⚙️ BACKEND
+                     │
+                     ▼
+               🗄️ DATABASE
+                     │
+                     ▼
+               🚀 FULL STACK
+                     │
+                     ▼
+               🔐 SECURITY
+                     │
+                     ▼
+              🧠 TECHNOLOGY
 ```
+
+---
+
+# 🧠 CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=700&color=8A2BE2&center=true&vCenter=true&width=850&lines=Improving+UI%2FUX+Design...;Building+More+Websites...;Learning+Full+Stack+Development...;Exploring+Cybersecurity...;Strengthening+Technical+Fundamentals...;Understanding+Modern+Technologies..." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UI%2FUX-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-00BCD4?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🏅 CERTIFICATION WALL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DELOITTE%20AUSTRALIA-Technology%20Job%20Simulation-8A2BE2?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/WsCube%20Tech-Certified%20Ethical%20Hacker%20from%20Scratch-FF69B4?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Postman-API%20Certification-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pieces-GenAI%20101-8A2BE2?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BharatVR-Snapchat%20Lens%20Making-00BCD4?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Learn-Technical%20Learning-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-# `> CONNECTION_ESTABLISHED`
+# 🔐 CYBER × CODE
+
+<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="420"/>
+
+### **Learning how technology works — and how to make it safer.**
 
 <br>
 
+`Ethical Hacking` • `Web Security` • `Secure Development` • `Cybersecurity Fundamentals`
+
+</div>
+
+---
+
+# 🌱 MY LEARNING LOOP
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1800&pause=600&color=00BCD4&center=true&vCenter=true&width=850&lines=LEARN+%E2%86%92+EXPERIMENT+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+REPEAT" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 📖 Learn | 🔍 Explore | 🧪 Experiment | 💻 Build | 🐛 Debug | 🚀 Improve |
+| :------: | :--------: | :-----------: | :------: | :------: | :--------: |
+
+</div>
+
+---
+
+# 🎯 2026 — LOADING...
+
+<div align="center">
+
+<img src="https://progress-bar.dev/70/?title=Learning&width=500&color=8A2BE2" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🎨%20UI%2FUX%20DESIGN-EXPANDING-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🌐%20WEB%20DEVELOPMENT-BUILDING-FF69B4?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💻%20FULL%20STACK-LEARNING-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🔐%20CYBERSECURITY-EXPLORING-FF9800?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🧠%20TECHNICAL%20KNOWLEDGE-GROWING-00BCD4?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB UNIVERSE
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Antrikshh-Coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Antrikshh-Coder&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antrikshh-Coder&bg_color=0D1117&color=FFFFFF&line=8A2BE2&point=FF69B4&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION ENERGY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Antrikshh-Coder/Antrikshh-Coder/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💭 A LITTLE ABOUT MY MIND
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+
+<br><br>
+
+### I don't want to learn everything.
+
+### I want to understand what I build.
+
+<br>
+
+### I don't want to only make things work.
+
+### I want to make them **feel right**.
+
+<br>
+
+### And I don't want to stop at one technology.
+
+### I want to keep exploring.
+
+</div>
+
+---
+
+# 🤝 LET'S CONNECT
+
+<div align="center">
+
 <a href="https://github.com/Antrikshh-Coder">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-ANTRIKSHH--CODER-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:antriksh.manwadkar.asm@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-### `You found my GitHub. Now let's build something interesting.`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2300&pause=700&color=8A2BE2&center=true&vCenter=true&width=800&lines=DESIGN.;BUILD.;BREAK.;LEARN.;REPEAT.%20%E2%86%BA" />
+<img src="https://komarev.com/ghpvc/?username=Antrikshh-Coder&label=PROFILE%20VIEWS&style=for-the-badge&color=8A2BE2"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Antrikshh-Coder&label=SYSTEM%20VISITS&style=for-the-badge&color=8A2BE2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2200&pause=700&color=FF69B4&center=true&vCenter=true&width=850&lines=Design+%E2%80%A2+Develop+%E2%80%A2+Explore+%E2%80%A2+Learn;Building+today+for+the+developer+I+want+to+be+tomorrow+%F0%9F%9A%80" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,12,20,30&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=160&section=footer&animation=twinkling" width="100%"/>
 
 </div>
