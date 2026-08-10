@@ -1,56 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:21113D,100:0D1117&height=220&section=header&text=ANTRIKSH%20MANWADKAR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21113D,100:0D1117&height=280&section=header&text=ANTRIKSH%20MANWADKAR&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=UI%2FUX%20DESIGNER%20%20%E2%80%A2%20%20FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20CREATIVE%20BUILDER&descSize=17&descAlignY=63" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=23&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=850&lines=Designer+who+codes.;Developer+who+cares+about+design.;Third-Year+Computer+Science+Student.;Building+the+web+one+idea+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2300&pause=700&color=8A2BE2&center=true&vCenter=true&width=900&lines=Third-Year+Computer+Science+Student+%F0%9F%8E%93;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Web+Experience+Builder+%F0%9F%8C%90;Technology+Explorer+%F0%9F%94%8D;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CREATIVE_DEVELOPER-FFFFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2"/>
-<img src="https://img.shields.io/badge/UI%2FUX-FFFFFF?style=for-the-badge&labelColor=FF1493&color=FF1493"/>
-<img src="https://img.shields.io/badge/FULL_STACK-FFFFFF?style=for-the-badge&labelColor=00A8FF&color=00A8FF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U4c3l2c3F3dG1mN3FjZmF4M2J5bDZ0dXBxZXJ0NmJ6dWQ1b2NqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="420"/>
-
-</div>
-
-<br>
-
-# ✦ ABOUT
-
-I'm **Antriksh Manwadkar**, a **Third-Year B.Tech Computer Science Engineering student** who enjoys working where **design and technology meet**.
-
-My interests are constantly evolving, but right now I'm focused on:
-
-**UI/UX Design · Full-Stack Development · Web Development · Creative Interfaces · Cybersecurity · Technical Learning**
-
-I don't want to be limited to one side of development.
-
-I want to understand the **interface**, the **logic**, the **system behind it**, and eventually the **experience as a whole**.
-
----
-
-<div align="center">
-
-# ◌ THE WAY I THINK
-
-### `IDEA → DESIGN → BUILD → TEST → IMPROVE`
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=19&duration=1800&pause=600&color=8A2BE2&center=true&vCenter=true&width=800&lines=Good+design+makes+technology+feel+simple.;Good+code+makes+technology+work.;I+want+to+learn+both." />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,cpp,figma&perline=6&theme=dark"/>
 
 </div>
 
 ---
 
-# ✦ MY WORLD
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+
+# Hey, I'm Antriksh 👋
+
+### **I design interfaces, build websites and explore technology.**
+
+</div>
+
+I'm a **Third-Year B.Tech Computer Science Engineering student** interested in the intersection of **design and development**.
+
+My current focus is on becoming better at:
+
+**🎨 UI/UX Design · 💻 Full Stack Development · 🌐 Web Development · 🔐 Cybersecurity · 🧠 Technical Skills**
+
+I enjoy taking an idea from a simple concept and turning it into something people can actually **see, use and experience**.
+
+---
+
+<div align="center">
+
+# ✦ MY CREATIVE + TECHNICAL SIDE
 
 <table>
 <tr>
@@ -59,7 +45,7 @@ I want to understand the **interface**, the **logic**, the **system behind it**,
 
 <img src="https://img.icons8.com/fluency/96/design.png"/>
 
-### DESIGN
+### 🎨 DESIGN
 
 UI/UX
 Visual Design
@@ -71,9 +57,9 @@ User Experience
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/code.png"/>
+<img src="https://img.icons8.com/fluency/96/source-code.png"/>
 
-### DEVELOPMENT
+### 💻 DEVELOPMENT
 
 Frontend
 Backend
@@ -85,15 +71,215 @@ Full Stack
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
+<img src="https://img.icons8.com/fluency/96/rocket.png"/>
 
-### EXPLORATION
+### 🚀 EXPLORING
 
 Cybersecurity
 AI
 Modern Web
 Cloud
-New Technologies
+New Technology
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ TECHNOLOGY
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,dart&theme=dark"/>
+
+<br><br>
+
+### `WEB & FULL STACK`
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express&theme=dark"/>
+
+<br><br>
+
+### `DATABASE & TOOLS`
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+### `DESIGN`
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎓 CERTIFICATION VAULT
+
+### `LEARNING MILESTONES`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🟣 DELOITTE AUSTRALIA
+
+<img src="https://img.icons8.com/fluency/80/briefcase.png"/>
+
+**Technology Job Simulation**
+
+</div>
+
+A practical technology job simulation experience focused on understanding technology-related professional tasks and problem solving.
+
+<br>
+
+<div align="center">
+
+`DELOITTE`
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔴 WsCube Tech
+
+<img src="https://img.icons8.com/fluency/80/security-checked.png"/>
+
+**How to Become a Certified Ethical Hacker from Scratch**
+
+</div>
+
+A cybersecurity learning experience covering foundational concepts related to ethical hacking and security.
+
+<br>
+
+<div align="center">
+
+`CYBERSECURITY`
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🟠 POSTMAN
+
+<img src="https://img.icons8.com/fluency/80/api-settings.png"/>
+
+**API Certification**
+
+</div>
+
+Learning and working with APIs and modern API development concepts.
+
+<br>
+
+<div align="center">
+
+`API • DEVELOPMENT`
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🟣 PIECES
+
+<img src="https://img.icons8.com/fluency/80/artificial-intelligence.png"/>
+
+**GenAI 101**
+
+</div>
+
+Exploring foundational concepts around generative AI and modern AI-assisted development.
+
+<br>
+
+<div align="center">
+
+`GEN AI`
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔵 BHARATVR
+
+<img src="https://img.icons8.com/fluency/80/virtual-reality.png"/>
+
+**Snapchat Lens Making**
+
+</div>
+
+Exploring creative technology through Snapchat Lens creation and immersive experiences.
+
+<br>
+
+<div align="center">
+
+`CREATIVE TECHNOLOGY`
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🟦 MICROSOFT LEARN
+
+<img src="https://img.icons8.com/fluency/80/microsoft.png"/>
+
+**Technical Learning**
+
+</div>
+
+Exploring Microsoft Learn modules and strengthening foundational technical knowledge.
+
+<br>
+
+<div align="center">
+
+`MICROSOFT LEARN`
+
+</div>
 
 </td>
 
@@ -104,93 +290,29 @@ New Technologies
 
 <div align="center">
 
-# ✦ TECHNOLOGY I PLAY WITH
+# 🔐 CYBER × DEVELOPMENT
 
-<br>
+<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="380"/>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,dart,html,css,react,nodejs,express,mongodb,mysql,firebase,figma,git,github,vscode&perline=9&theme=dark"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=750&lines=Python+%7C+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;HTML+%7C+CSS+%7C+React;Node.js+%7C+Express;MongoDB+%7C+MySQL+%7C+Firebase;Figma+%7C+Git+%7C+GitHub" />
+### `UNDERSTAND → BUILD → SECURE`
 
 </div>
 
----
+My interest in cybersecurity is growing alongside my development journey.
 
-# ✦ CURRENTLY
+I'm exploring:
 
-<div align="center">
+`Ethical Hacking` · `Web Security` · `Security Fundamentals` · `Secure Development`
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-</div>
-
-### I'm currently spending my time on...
-
-🎨 **Becoming better at UI/UX**
-
-Creating interfaces that aren't just visually attractive, but actually make sense to the person using them.
-
-🌐 **Building more websites**
-
-Experimenting with layouts, interactions, animations and modern web experiences.
-
-💻 **Going deeper into Full Stack**
-
-Understanding how frontend, APIs, backend services and databases connect together.
-
-🔐 **Exploring Cybersecurity**
-
-Learning ethical hacking and security fundamentals to become a more security-aware developer.
-
-🧠 **Growing technically**
-
-Strengthening my fundamentals while continuously exploring new technologies.
+The goal isn't simply to learn security tools — it's to become a developer who understands **security while building applications**.
 
 ---
 
-<div align="center">
-
-# ✦ CERTIFICATIONS & LEARNING
-
-<br>
-
-<img src="https://img.shields.io/badge/Deloitte%20Australia-Technology%20Job%20Simulation-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/WsCube%20Tech-How%20to%20Become%20a%20Certified%20Ethical%20Hacker%20from%20Scratch-FF1493?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Postman-API%20Certification-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pieces-GenAI%20101-8A2BE2?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BharatVR-Snapchat%20Lens%20Making-00BCD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Learn-Technical%20Learning-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<br><br>
-
-### `Learning isn't a collection. It's a process.`
-
-</div>
-
----
+# 🌐 WHAT I'M WORKING TOWARDS
 
 <div align="center">
 
-# ✦ DESIGN × CODE
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="390"/>
-
-<br>
-
-### I want to build interfaces that **look good**
-
-### and applications that **work even better**.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2000&pause=600&color=FF1493&center=true&vCenter=true&width=850&lines=Better+UI%2FUX+%F0%9F%8E%A8;More+Modern+Websites+%F0%9F%8C%90;Stronger+Full+Stack+Skills+%F0%9F%92%BB;Deeper+Technical+Knowledge+%F0%9F%A7%A0;More+Cybersecurity+Learning+%F0%9F%94%90;More+Things+To+Build+%F0%9F%9A%80"/>
 
 </div>
 
@@ -198,82 +320,43 @@ Strengthening my fundamentals while continuously exploring new technologies.
 
 <table>
 <tr>
-
-<td width="50%">
-
-### 🎨 DESIGN SIDE
-
-I enjoy exploring:
-
-* User interfaces
-* User experience
-* Visual hierarchy
-* Responsive layouts
-* Prototyping
-* Interaction design
-* Creative web design
-
-</td>
-
-<td width="50%">
-
-### ⚙️ ENGINEERING SIDE
-
-I'm developing knowledge in:
-
-* Frontend development
-* REST APIs
-* Backend development
-* Database systems
-* Authentication
-* Full-stack architecture
-* Problem solving
-
-</td>
-
+<td align="center">🎨<br><b>DESIGN</b><br>Improve UI/UX</td>
+<td align="center">🌐<br><b>WEB</b><br>Build experiences</td>
+<td align="center">💻<br><b>FULL STACK</b><br>Go deeper</td>
+<td align="center">🔐<br><b>SECURITY</b><br>Keep exploring</td>
+<td align="center">🧠<br><b>KNOWLEDGE</b><br>Keep learning</td>
 </tr>
 </table>
 
 ---
 
-# ✦ A LITTLE SECURITY
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="380"/>
+# 📱 LET'S CONNECT
+
+### `DESIGN • CODE • CREATE • CONNECT`
 
 <br>
 
-### `LEARN → UNDERSTAND → BUILD SECURELY`
+<a href="https://github.com/Antrikshh-Coder">
+<img src="https://img.shields.io/badge/GitHub-ANTRIKSHH--CODER-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.instagram.com/antrikshh_304">
+<img src="https://img.shields.io/badge/Instagram-FOLLOW%20ME-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-My recent learning has introduced me to **ethical hacking and cybersecurity fundamentals**.
+<a href="https://www.snapchat.com/add/antriksh_304">
+<img src="https://img.shields.io/badge/Snapchat-ADD%20ME-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+</a>
 
-I'm interested in understanding how applications can be protected and how security should be considered while developing software.
+<a href="mailto:antriksh.manwadkar.asm@gmail.com">
+<img src="https://img.shields.io/badge/Email-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Currently exploring**
+<br><br>
 
-`Ethical Hacking` · `Web Security` · `Security Fundamentals` · `Secure Development`
-
----
-
-<div align="center">
-
-# ✦ THE NEXT CHAPTER
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=2100&pause=700&color=FF1493&center=true&vCenter=true&width=850&lines=More+UI%2FUX.;More+Websites.;More+Full+Stack.;More+Learning.;More+Experiments.;More+Building." />
-
-</div>
-
-<br>
-
-<div align="center">
-
-|    🎨   |   🌐   |     💻     |    🔐    |     🧠     |
-| :-----: | :----: | :--------: | :------: | :--------: |
-|  UI/UX  |   Web  | Full Stack | Security | Technology |
-| Improve | Create |    Build   |  Explore | Understand |
+<img src="https://komarev.com/ghpvc/?username=Antrikshh-Coder&label=PROFILE%20VISITORS&style=for-the-badge&color=8A2BE2"/>
 
 </div>
 
@@ -281,7 +364,7 @@ I'm interested in understanding how applications can be protected and how securi
 
 <div align="center">
 
-# ✦ GITHUB / ACTIVITY
+# 📊 GITHUB ACTIVITY
 
 <br>
 
@@ -303,29 +386,9 @@ I'm interested in understanding how applications can be protected and how securi
 
 <div align="center">
 
-# ✦ BEYOND THE SCREEN
+# 💭 ONE THING ABOUT ME
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="330"/>
-
-<br><br>
-
-🎮 Gaming    ✦   
-📖 Reading    ✦   
-🎨 Creative Design    ✦   
-🎪 Events    ✦   
-🔍 Exploring Technology
-
-</div>
-
----
-
-<div align="center">
-
-# ✦ FINAL FRAME
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=2300&pause=800&color=8A2BE2&center=true&vCenter=true&width=850&lines=I'm+still+learning.;I'm+still+experimenting.;I'm+still+building.;And+that's+the+fun+part.+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2300&pause=700&color=8A2BE2&center=true&vCenter=true&width=850&lines=I+don't+want+to+just+use+technology.;I+want+to+understand+it.;I+want+to+design+with+it.;I+want+to+build+with+it.;And+I+want+to+keep+learning." />
 
 <br><br>
 
@@ -335,22 +398,14 @@ I'm interested in understanding how applications can be protected and how securi
 
 ### **Build with purpose.**
 
-<br><br>
+<br>
 
 <a href="https://github.com/Antrikshh-Coder">
-<img src="https://img.shields.io/badge/GITHUB-ANTRIKSHH--CODER-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:antriksh.manwadkar.asm@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Antrikshh-Coder&label=VISITORS&style=for-the-badge&color=8A2BE2"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21113D,100:0D1117&height=180&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:21113D,100:0D1117&height=170&section=footer&animation=twinkling" width="100%"/>
 
 </div>
