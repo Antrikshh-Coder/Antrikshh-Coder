@@ -364,27 +364,6 @@ The goal isn't simply to learn security tools — it's to become a developer who
 
 <div align="center">
 
-# 📊 GITHUB ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Antrikshh-Coder&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=FF1493&text_color=FFFFFF&bg_color=00000000" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antrikshh-Coder&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&bg_color=00000000" width="48%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Antrikshh-Coder&theme=transparent&hide_border=true&ring=8A2BE2&fire=FF1493&currStreakLabel=8A2BE2" width="75%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antrikshh-Coder&bg_color=00000000&color=FFFFFF&line=8A2BE2&point=FF1493&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
 
 # 💭 ONE THING ABOUT ME
 
